@@ -11,7 +11,7 @@ export default function Home() {
 
         <section>
           <h2>課題2. ボタンコンポーネント</h2>
-          {/* ここにタブコンポーネントを追加 */}
+          {/* ここにボタンコンポーネントを追加 */}
         </section>
 
         <section>
